@@ -1,0 +1,5 @@
+Installed an application called vote application with V3 & V4. 
+Created the deployments in Parallel for v3 and v4 and tested both.
+One using default service and another using adummy service.  
+Then edited the service to point Green application using label selectors. 
+Once Verified Green is working properly removed blue application to complete it.
